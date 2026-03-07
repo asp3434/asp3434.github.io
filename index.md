@@ -9,7 +9,7 @@ Active coursework and project work for Computer Network Systems at Purdue Univer
 
 <a href="https://github.com/asp3434/ECE50863-Projects" class="btn" target="_blank">View Project</a>
 
-### Stock Picker Containers
+### "Stock Picks" - Containers
 A containerized stock analysis and automation platform for collecting market data, scoring equities, and delivering results through automated workflows. Built with Python and containers.
 
 <a href="https://github.com/asp3434/stock-picker-containers" class="btn" target="_blank">View Project</a>
