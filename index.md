@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 Current MS Electrical and Computer Engineering student at Purdue University focused on computer networking, digital signal processing, and software-defined radio systems. This site highlights selected projects and technical work.
 
